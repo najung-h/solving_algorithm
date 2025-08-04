@@ -3,9 +3,8 @@
 ![ssafy](https://img.shields.io/badge/SSAFY-Algorithm-blue)
 ![miracle](https://img.shields.io/badge/Miracle%20Morning-8:00--8:40%20AM-yellow)
 ![selfstudy](https://img.shields.io/badge/Personal%20Study-8:00--10:00%20PM-green)
-![language](https://img.shields.io/badge/Language-Python%20%7C%20C++%20%7C%20Java-orange)
+![language](https://img.shields.io/badge/Language-Python-blue)
 ![status](https://img.shields.io/badge/Status-Studying-brightgreen)
-
 ## 📌 About
 
 이 저장소는 SSAFY 과정을 이수하며 진행하는 **알고리즘 스터디 기록 저장소**입니다.  
